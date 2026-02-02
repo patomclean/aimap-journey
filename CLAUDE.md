@@ -11,10 +11,12 @@
 - PROTOTYPE_REFERENCE.md - Documentación completa del prototipo UX con todas las pantallas, flujos, estilos y lógica de negocio. **LEER ANTES DE DESARROLLAR.**
 
 ## 🏗️ Estructura del proyecto
+```
 /app                    → Páginas (App Router)
 /components             → Componentes React
 /lib                    → Utilidades y clientes (Supabase, AI, etc.)
 /types                  → TypeScript types
+```
 
 ## 🎨 Guía de estilos
 
